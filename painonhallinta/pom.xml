@@ -5,5 +5,5 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>painonhallinta</name>
-  <description>Sovellus painonseurantaan</description>
+  <description>Sovellus painonseurantaan.</description>
 </project>
